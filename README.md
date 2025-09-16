@@ -1,2 +1,3 @@
-# SubjestAsWebsites
-The 5 subjects in a website format
+Hello Guys, This website is create as a practice project for me to learn HTMl, CSS, and Javascript.
+
+Also coffee are expensive so damn...
